@@ -1,8 +1,9 @@
-#title README
+h1. {{ README }}
 
-***breeze.guangfeng@googlemail.com***
+p(meta). guangfengio@gmail.com
 
 * my .emacs and site-lisp backup here
  - add .emacs for console
  - fix .emacs with classic theme supporting
  - add SML-Mode
+ - add Texile-Mode
